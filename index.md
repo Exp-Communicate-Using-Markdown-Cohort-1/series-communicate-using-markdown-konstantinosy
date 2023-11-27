@@ -7,3 +7,7 @@ x = 10
 if x == 10:
   print("hello world!!")
 ```
+
+- [ ] Finish this assignment.
+- [ ] Delve into codespaces a bit.
+- [ ] And lastly go to sleep.
